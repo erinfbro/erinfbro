@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erinfbro
 - 👀 I’m interested in cancer biology and breaking up with Excel/Prism
-- 🌱 I’m currently learning R for data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R and Python for data science. 
 - 📫 How to reach me: email me erin.broderick98@gmail.com
 -
 
